@@ -1,0 +1,9 @@
+.post-name{
+  display: block;
+  font-size: 1rem;
+}
+
+.post-time{
+  display:block;
+  font-size: 0.8rem;
+}
